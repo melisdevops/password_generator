@@ -2,11 +2,11 @@
 
 **Ultimo aggiornamento:** 30 giugno 2026
 
-Questa Privacy Policy descrive in modo specifico il trattamento dei dati da parte dell'estensione per Microsoft Edge **PassForge — Generatore di password**.
+Questa Privacy Policy descrive in modo specifico il trattamento dei dati da parte dell'estensione per Microsoft Edge **Password Generator — Generatore di password**.
 
 ## 1. Riepilogo
 
-PassForge **non raccoglie, non memorizza, non trasmette e non condivide alcun dato personale o di utilizzo**. L'estensione funziona interamente in locale, all'interno del browser dell'utente.
+Password Generator **non raccoglie, non memorizza, non trasmette e non condivide alcun dato personale o di utilizzo**. L'estensione funziona interamente in locale, all'interno del browser dell'utente.
 
 ## 2. Dati raccolti
 
@@ -35,7 +35,7 @@ Non essendo raccolto alcun dato, non vi è alcuna condivisione di dati con terze
 
 ## 6. Diritti dell'utente
 
-Poiché PassForge non raccoglie né conserva alcun dato personale, non esistono dati da poter consultare, esportare o richiedere in cancellazione: nulla viene mai memorizzato al di fuori della sessione corrente del popup.
+Poiché Password Generator non raccoglie né conserva alcun dato personale, non esistono dati da poter consultare, esportare o richiedere in cancellazione: nulla viene mai memorizzato al di fuori della sessione corrente del popup.
 
 ## 7. Minori
 
